@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Yomi",
+
+    "communityTier": "S",
+    "communityScore": 4.62,
+    "communityVotes": 1248,
+
+    "elevatedTier": "S",
+    "elevatedScore": 4.85,
+    "elevatedVotes": 12,
+
+    "personality": "Composed",
+    "damageType": "Magical",
+    "race": "Mystics",
+    "position": "Back",
+    "role": "DPS",
+
+    "pros": [
+      "Example Pro 1",
+      "Example Pro 2"
+    ],
+
+    "cons": [
+      "Example Con 1",
+      "Example Con 2"
+    ],
+
+    "notes": [
+      "Example Note 1"
+    ],
+
+    "recommendedArtifacts": [
+      "Artifact A"
+    ],
+
+    "recommendedRunes": [
+      "Rune A"
+    ]
+  }
+]
