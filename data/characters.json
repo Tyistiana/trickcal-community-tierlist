@@ -3,6 +3,8 @@
     "id": 1,
     "name": "Yomi",
 
+    "image": "images/characters/yomi.webp",
+
     "communityTier": "S",
     "communityScore": 4.62,
     "communityVotes": 1248,
@@ -11,11 +13,11 @@
     "elevatedScore": 4.85,
     "elevatedVotes": 12,
 
-    "personality": "Composed",
+    "personality": "Depressed",
     "damageType": "Magical",
     "race": "Mystics",
-    "position": "Back",
-    "role": "DPS",
+    "position": "Middle",
+    "role": "Support",
 
     "pros": [
       "Example Pro 1",
